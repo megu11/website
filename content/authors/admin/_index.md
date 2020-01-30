@@ -1,29 +1,21 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interest is in quantitative ecology.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.A. in Mathematics, Kalamazoo College (2014)
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Freshwater Ecology
+- Spatial Modeling
+- Conservation
+- Data Analytics
+name: Megan Davis
 organizations:
-- name: Stanford University
+- name: University of Washington
   url: ""
-role: Professor of Artificial Intelligence
+role: Master's Student
 social:
 - icon: envelope
   icon_pack: fas
